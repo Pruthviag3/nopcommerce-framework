@@ -1,0 +1,149 @@
+INFO:root:*********** verify login test ********** 
+INFO:root:*********** Verifying Login Page Title ********** 
+INFO:root:*********** Test_001_Login ********** 
+INFO:root:*********** Verifying Home Page Title ********** 
+INFO:root:*********** Home Page Title is passed ********** 
+INFO:root:*********** Login Page Title is passed ********** 
+INFO:root:*********** Test_001_Login ********** 
+INFO:root:*********** Verifying Home Page Title ********** 
+INFO:root:*********** Home Page Title is passed ********** 
+INFO:root:*********** verify login test ********** 
+INFO:root:*********** Verifying Login Page Title ********** 
+INFO:root:*********** Login Page Title is passed ********** 
+INFO:root:*********** verify login test ********** 
+INFO:root:*********** Verifying Login Page Title ********** 
+INFO:root:*********** Login Page Title is passed ********** 
+INFO:root:*********** verify login test ********** 
+INFO:root:*********** Verifying Login Page Title ********** 
+INFO:root:*********** Test_001_Login ********** 
+INFO:root:*********** Verifying Home Page Title ********** 
+INFO:root:*********** Home Page Title is passed ********** 
+INFO:root:*********** Login Page Title is passed ********** 
+INFO:root:*********** Test_001_Login ********** 
+INFO:root:*********** Verifying Home Page Title ********** 
+INFO:root:*********** Home Page Title is passed ********** 
+INFO:root:*********** verify login test ********** 
+INFO:root:*********** Verifying Login Page Title ********** 
+INFO:root:*********** Login Page Title is passed ********** 
+INFO:root:*********** Test_001_Login ********** 
+INFO:root:*********** Verifying Home Page Title ********** 
+INFO:root:*********** Home Page Title is passed ********** 
+INFO:root:*********** verify login test ********** 
+INFO:root:*********** Verifying Login Page Title ********** 
+INFO:root:*********** Login Page Title is passed ********** 
+INFO:root:*********** verify Test_002_DDT_Login ********** 
+INFO:root:*********** Verifying Login DDT Test ********** 
+INFO:root:*********** verify Test_002_DDT_Login ********** 
+INFO:root:*********** Verifying Login DDT Test ********** 
+INFO:root:*********** verify Test_002_DDT_Login ********** 
+INFO:root:*********** Verifying Login DDT Test ********** 
+INFO:root:*********** verify Test_002_DDT_Login ********** 
+INFO:root:*********** Verifying Login DDT Test ********** 
+INFO:root:****** Passed *****
+INFO:root:****** Passes *****
+INFO:root:****** Passes *****
+INFO:root:****** Passes *****
+INFO:root:***** Login DDT test is passed****
+INFO:root:*******End of Login DDT Test*****
+INFO:root:*******Completed TC_login_DDT_002*****
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:******* Saving Data ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:******* Saving Data ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:******* Saving Data ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:******* Saving Data ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:******* Saving Data ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:******* Saving Data ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:******* Saving Data ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:******* Saving Data ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:******* Saving Data ******
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:******* Saving Data ******
+INFO:root:*********Test_004_searchcustomer_email********
+INFO:root:********** Login *********
+INFO:root:*********Customer Page*********
+INFO:root:******Custer Search Page********
+INFO:root:*********Test_004_searchcustomer_email********
+INFO:root:********** Login *********
+INFO:root:*********Customer Page*********
+INFO:root:******Custer Search Page********
+INFO:root:*********Test_004_searchcustomer_email********
+INFO:root:********** Login *********
+INFO:root:*********Customer Page*********
+INFO:root:******Custer Search Page********
+INFO:root:*********Test_004_searchcustomer_email********
+INFO:root:********** Login *********
+INFO:root:*********Customer Page*********
+INFO:root:******Custer Search Page********
+INFO:root:*********Test_004_searchcustomer_email********
+INFO:root:********** Login *********
+INFO:root:*********Customer Page*********
+INFO:root:******Custer Search Page********
+INFO:root:*********Test_004_searchcustomer_email********
+INFO:root:********** Login *********
+INFO:root:*********Customer Page*********
+INFO:root:******Custer Search Page********
+INFO:root:*********Test_004_searchcustomer_email********
+INFO:root:********** Login *********
+INFO:root:*********Customer Page*********
+INFO:root:******Custer Search Page********
+INFO:root:**********Test_004_searchcustomer_email_finished******
+INFO:root:*********Test_004_searchcustomer_email********
+INFO:root:********** Login *********
+INFO:root:*********Customer Page*********
+INFO:root:******Custer Search Page********
+INFO:root:**********Test_004_searchcustomer_email_finished******
+INFO:root:*********Test_005_searchCustomerByName********
+INFO:root:*********Login*********
+INFO:root:**********Customer*********
+INFO:root:*********Search page********
+INFO:root:*********Test_005_searchCustomerByName Ended********
+INFO:root:********** Login Page ********
+INFO:root:******* Home Page ******
+INFO:root:******* Saving Data ******
+INFO:root:*********** verify login test ********** 
+INFO:root:*********** Verifying Login Page Title ********** 
+INFO:root:*********** Login Page Title is passed ********** 
